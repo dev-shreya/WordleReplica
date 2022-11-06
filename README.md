@@ -1,10 +1,4 @@
-# 449-Project-1
-
-# Team members:
-1. Ashley Thorlin
-2. Clemente Solorio
-3. Eddie Poulson Valdez 
-4. Shreya Bhattacharya
+Wordle Replica
 
 ## Documentation
 Procfile and .env from https://github.com/ProfAvery/cpsc449/tree/master/quart/hello
